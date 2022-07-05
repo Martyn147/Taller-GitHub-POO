@@ -9,6 +9,7 @@ Nombres:Martin Rosero, Kevin Moreno, Erick Palomo
 Commits:
 
 Manual de usuario:
+![img.png](img.png)
 
 El programa tiene como objetivo tomar un valor ingresado a travez de una ventana
 y desplegar un menu para la seleccion del valor final al que quiera el usuario 
@@ -19,4 +20,6 @@ Seguido de esto ya con el menu en pantalla escojeras la opcion de dato final des
 Para finalizar se te presentara un mensaje en funcion de la opcion escojida, ya que si
 escojiste en el menu el mismo tipo de dato se te hara saber que el dato ingresado ya pertenece
 a dicho tipo, caso contrari se temostrara el resultado.
+
+
 
