@@ -10,7 +10,6 @@ Commits:
 
 Manual de usuario:
 
-Hola buenas tardes
-
+Aqui va el usuario bobo
 
 
