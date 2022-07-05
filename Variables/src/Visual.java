@@ -1,3 +1,5 @@
+import javax.swing.*;
+
 public class Visual {
 
     //Declaracion de las diferentes variables
@@ -66,6 +68,8 @@ public class Visual {
     }
 
     public void CasteoDatos(){
+
+        JOptionPane.showInputDialog("Dijite un numero: ");
 
 
     }
