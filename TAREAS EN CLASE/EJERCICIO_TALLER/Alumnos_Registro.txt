@@ -1,0 +1,25 @@
+Lista de alumnosabcdLista de alumnosabababLista de alumnos
+a
+aa
+4
+1245
+78
+5
+a
+7
+b
+bb
+7
+78459
+RRa
+8
+a
+7 Nombre: 
+erickApellido: 
+palomoMatricula: 
+1CI: 
+1752521771CodCarrera: 
+RRA20Numero de Materias: 
+6Grupo: 
+eAula: 
+35
