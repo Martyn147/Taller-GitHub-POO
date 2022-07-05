@@ -69,7 +69,7 @@ public class Visual {
 
     public void CasteoDatos(){
 
-        JOptionPane.showInputDialog("Dijite un numero: ");
+        
 
 
     }
