@@ -66,17 +66,54 @@ public class Visual {
     public void CasteoDatos(){
 
         int op;
+        boolean salir=true;
+        int num=0;
 
         Scanner teclado=new Scanner(System.in);
 
-        op=Integer.parseInt(JOptionPane.showInputDialog("Bienvenido a la calculadora\n" +
-                "1. Transformar a entero\n" +
-                "2. Transformar a short\n" +
-                "3. Transformar a Byte\n" +
-                "4. Transformar a Long\n" +
-                "5. Transformar a Float\n" +
-                "6. Transformar a Double\n" +
-                "Dijite un opcion: "));
+        while (salir==true){
+
+            op=Integer.parseInt(JOptionPane.showInputDialog("Bienvenido a la calculadora\n" +
+                    "1. Transformar a entero\n" +
+                    "2. Transformar a short\n" +
+                    "3. Transformar a Byte\n" +
+                    "4. Transformar a Long\n" +
+                    "5. Transformar a Float\n" +
+                    "6. Transformar a Double\n" +
+                    "7. Salir" +
+                    "Dijite un opcion: "));
+            switch (op){
+
+                case 1:
+                    num=Integer.parseInt(JOptionPane.showInputDialog("Dijite un numero: "));
+
+                    nentero=(int)num;
+                    if (nentero==num){
+
+                        JOptionPane.showInputDialog("El numero se a convetido en entero");
+                    }
+                    else {
+
+                    }
+                    break;
+                case 2:
+                    break;
+                case 3:
+                    break;
+                case 4:
+                    break;
+                case 5:
+                    break;
+                case 6:
+                    break;
+                case 7:
+                    salir=false;
+                    break;
+            }
+        }
+
+
+
 
     }
 
