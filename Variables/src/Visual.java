@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Visual {
 
-    //Declaracion de las diferentes variables
+    //Declaracion de las diferentes variable
     private int nentero;
     private short nShort;
     private byte nByte;
