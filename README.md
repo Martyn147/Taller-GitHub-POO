@@ -27,5 +27,3 @@ Intrucciones:
  
 4.- Pulsar en Salir para cerrar el programa.
 
-
-
