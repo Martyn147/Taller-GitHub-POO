@@ -5,7 +5,7 @@ Orden:
 Calculadora que convierta tipos de datos usando Programación Orientada a Objetos.
 El ingreso de datos y salida de resultados debe ser mediante interfaz visual.
 
-Nombres:
+Nombres:Martin Rosero, Kevin Moreno, Erick Palomo
 Commits:
 
 Manual de usuario:
