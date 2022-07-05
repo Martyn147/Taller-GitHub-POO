@@ -1,4 +1,6 @@
 public class Visual {
+
+    //Declaracion de las diferentes variables
     private int nentero;
     private short nShort;
     private byte nByte;
@@ -67,4 +69,5 @@ public class Visual {
 
 
     }
+
 }
