@@ -20,5 +20,3 @@ Para finalizar se te presentara un mensaje en funcion de la opcion escojida, ya 
 escojiste en el menu el mismo tipo de dato se te hara saber que el dato ingresado ya pertenece
 a dicho tipo, caso contrari se temostrara el resultado.
 
-
-
